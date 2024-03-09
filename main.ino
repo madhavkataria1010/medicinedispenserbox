@@ -14,9 +14,9 @@ extern "C" {
 }
 
 char ssid[] = "IITJ_WLAN";
-char username[] = "b23cm1004";
-char identity[] = "b23cm1004";
-char password[] = "b23cm1004213";
+char username[] = "b23ch1025";
+char identity[] = "b23ch1025";
+char password[] = "badpyn-mEqwoj-cukpi6";
 
 Servo myservo;
 
