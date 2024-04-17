@@ -1,2 +1,2 @@
 # Medicine Dispenser box
-Hosted ip adress - 172.31.18.194
+Hosted ip adress - http://172.31.42.40
