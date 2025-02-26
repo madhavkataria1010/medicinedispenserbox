@@ -14,9 +14,9 @@ extern "C" {
 }
 
 char ssid[] = "IITJ_WLAN";
-char username[] = "b23ch1025";
-char identity[] = "b23ch1025";
-char password[] = "badpyn-mEqwoj-cukpi6";
+char username[] = ""; // Add your user name 
+char identity[] = ""; // add your roll number
+char password[] = ""; // add your password here
 
 Servo myservo;
 
